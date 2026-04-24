@@ -21,7 +21,7 @@ Esta aplicação permite que usuários interajam com a IA em uma interface escur
 - **React**
 - **TypeScript**
 - **Tailwind CSS** (para estilização rápida e responsiva)
-- **Ícones:** Lucide React (provavelmente, ou similar)
+- **Ícones:** Lucide React
 
 ### Back-end e IA
 - **Groq API** (Para integração com Llama 3)
