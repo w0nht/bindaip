@@ -1,7 +1,7 @@
 # 🪐 BindAI - Seu Assistente Inteligente
 
 <div align="center">
-  <img src="./public/logo.png" alt="BindAI Logo" height="120">
+  <img src="./public/pnglogo.png" alt="BindAI Logo" height="120">
   <br>
   <p>Uma interface de chat moderna alimentada por Llama 3 via Groq API.</p>
 </div>
